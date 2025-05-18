@@ -31,7 +31,7 @@ A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônic
 - 📚 **Ler**: amplia minha base de conhecimento e me conecta com diferentes temas
 - 🎨 **Cerâmica e artesanato**: me ajudam a desenvolver foco, precisão e criatividade  
 - 🎲 **Gameboards**: estimulam pensamento estratégico e modelagem de cenários  
-- 🪡 **Bordado**: exige paciência, repetição e atenção ao detalhe
+- 🧵 **Bordado**: exige paciência, repetição e atenção ao detalhe
 - ☄️ **Caça de asteroides**: sou voluntária no projeto Ciência Cidadã da International Astronomical Search Collaboration (IASC), que colabora com a NASA na busca e monitoramento de asteroides. Utilizo imagens captadas por um telescópio da Universidade do Havaí para identificar asteroides, contribuindo com descobertas astronômicas. Já identifiquei dois asteroides preliminares, ajudando a avançar a pesquisa sobre nosso sistema solar.
 - 🎧 **Criar playlists**: amplia meu repertório musical e me permite explorar diferentes gêneros e artistas — veja no meu [Spotify](https://open.spotify.com/user/08omttnswuf2g10zs99a4hekg)
 
