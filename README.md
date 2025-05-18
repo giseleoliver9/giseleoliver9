@@ -21,7 +21,7 @@ Complemento minha formação com estudos contínuos em Ciência de Dados, Inteli
 
 ## ✍️ Da Escrita à Análise
 
-A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônicas e reflexões, algumas publicadas em antologias literárias, outras compartilhadas no meu **blog de poesia** pessoal: [algunsecos.wordpress.com](https://algunsecos.wordpress.com/) e no [Medium](https://medium.com/@giselemeliobr), onde também escrevo sobre tecnologia e sociedade. Escrever me ajuda a observar melhor, estruturar pensamentos com clareza e a a criatividade que nutro na escrita é a mesma que levo para os meus projetos com dados: a vontade de contar histórias, revelar padrões invisíveis e gerar insights.  
+A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônicas e reflexões, algumas publicadas em antologias literárias, outras compartilhadas no meu [**blog de poesia**](https://algunsecos.wordpress.com/) e no [**Medium**](https://medium.com/@giselemeliobr), onde também escrevo sobre tecnologia e sociedade. Escrever me ajuda a observar melhor, estruturar pensamentos com clareza e a a criatividade que nutro na escrita é a mesma que levo para os meus projetos com dados: a vontade de contar histórias, revelar padrões invisíveis e gerar insights.  
 
 
 ---
