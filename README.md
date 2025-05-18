@@ -71,13 +71,6 @@ A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônic
 
 ---
 
-## 🚀 Projetos em Destaque
-
-- 📚 **Leia.ai** – Sistema de recomendação de livros com IA generativa  
-- 🌬️ **Predição da Qualidade do Ar** – Machine Learning e séries temporais  
-- 💬 **Análise de Sentimentos em Avaliações** – NLP com TextBlob, VADER e spaCy  
-- 🛸 **Avistamentos de OVNIs na Amazônia** – Análise geoespacial e storytelling  
-
 ✨ Veja todos os projetos no meu [GitHub](https://github.com/giseleoliver9).
 
 ---
