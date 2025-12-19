@@ -12,8 +12,8 @@
 Sou uma cientista de dados em formação, tenho a convicção de que a Inteligência Artificial só faz sentido quando aplicada para o bem coletivo. Busco soluções que ampliem acessos, combatam desigualdades e criem oportunidades reais por meio da tecnologia.
 
 Atualmente curso:
-- 🎓 **Especialização em Inteligência Artificial e Data Science – FETES**
-- 🎓 **Graduação em Análise e Desenvolvimento de Sistemas – IBMR** (4ª Semestre)
+- 🎓 **Pós-Graduação em Inteligência Artificial e Data Science – FETES**
+- 🎓 **Formada em Análise e Desenvolvimento de Sistemas – IBMR** 
 
 Complemento minha formação com estudos contínuos em Ciência de Dados, Inteligência Artificial, leituras técnicas e prática com projetos reais.
 
@@ -21,7 +21,7 @@ Complemento minha formação com estudos contínuos em Ciência de Dados, Inteli
 
 ## ✍️ Da Escrita à Análise
 
-A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônicas e reflexões, algumas publicadas em antologias literárias, outras compartilhadas no meu [**blog de poesia**](https://algunsecos.wordpress.com/) e no [**Medium**](https://medium.com/@giselemeliobr), onde também escrevo sobre tecnologia e sociedade. Escrever me ajuda a observar melhor, estruturar pensamentos com clareza e a a criatividade que nutro na escrita é a mesma que levo para os meus projetos com dados: a vontade de contar histórias, revelar padrões invisíveis e gerar insights.  
+A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, contos e reflexões, algumas publicadas em antologias literárias, outras compartilhadas no meu [**blog de poesia**](https://algunsecos.wordpress.com/) e no [**Medium**](https://medium.com/@giselemeliobr), onde também escrevo sobre tecnologia e sociedade. Escrever me ajuda a observar melhor, estruturar pensamentos com clareza e a a criatividade que nutro na escrita é a mesma que levo para os meus projetos: a vontade de contar histórias, revelar padrões invisíveis e gerar insights.  
 
 
 ---
@@ -49,8 +49,8 @@ A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, crônic
 
 ## 📚 Formação Técnica & Estudos
 
-- Graduação em ADS – IBMR (em andamento)  
-- Especialização em IA e Data Science – FETES (em andamento) 
+- Graduação em ADS – IBMR
+- Pós-Graduação em IA e Data Science – FETES (em andamento) 
 - Cursos em:
   - Ciência de Dados
   - Visualização e Storytelling com Dados
