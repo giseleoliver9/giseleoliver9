@@ -1,82 +1,64 @@
-<h1 align="center">👋 Olá, eu sou a Gisele!</h1>
+<h1 align="center">👩‍💻 Gisele Oliveira</h1>
 
 <p align="center">
-  <strong>Cientista de Dados em formação</strong> | Escritora | Caçadora de asteroides ☄️<br/>
-  Apaixonada por Inteligência Artificial com propósito social
+  <strong>AI Engineer</strong> • LLMs • RAG • AI Agents • Full Stack AI Systems
+</p>
+
+<p align="center">
+  Construindo sistemas inteligentes com IA aplicados a problemas reais
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou uma cientista de dados em formação, tenho a convicção de que a Inteligência Artificial só faz sentido quando aplicada para o bem coletivo. Busco soluções que ampliem acessos, combatam desigualdades e criem oportunidades reais por meio da tecnologia.
+Atuo como AI Engineer com foco no desenvolvimento de sistemas inteligentes utilizando LLMs, RAG e agentes de IA.
 
-Atualmente curso:
-- 🎓 **Pós-Graduação em Inteligência Artificial e Data Science – FETES**
-- 🎓 **Formada em Análise e Desenvolvimento de Sistemas – IBMR** 
+Tenho experiência na construção de soluções end-to-end, incluindo:
+- Desenvolvimento de agentes de IA para automação de processos
+- Implementação de pipelines com RAG (Retrieval-Augmented Generation)
+- Criação de APIs com Python (FastAPI)
+- Desenvolvimento de aplicações full stack com React e TypeScript
+- Construção de pipelines de dados (ETL) e automação com n8n
 
-Complemento minha formação com estudos contínuos em Ciência de Dados, Inteligência Artificial, leituras técnicas e prática com projetos reais.
-
----
-
-## ✍️ Da Escrita à Análise
-
-A escrita é uma das minhas formas de entender o mundo. Escrevo poesias, contos e reflexões, algumas publicadas em antologias literárias, outras compartilhadas no meu [**blog de poesia**](https://algunsecos.wordpress.com/) e no [**Medium**](https://medium.com/@giselemeliobr), onde também escrevo sobre tecnologia e sociedade. Escrever me ajuda a observar melhor, estruturar pensamentos com clareza e a a criatividade que nutro na escrita é a mesma que levo para os meus projetos: a vontade de contar histórias, revelar padrões invisíveis e gerar insights.  
-
+Meu foco é aplicar inteligência artificial para resolver problemas reais, com ênfase em automação, eficiência operacional e sistemas escaláveis.
 
 ---
 
-## 🎨 Hobbies
+## 🛠️ Stack
 
-- 📚 **Ler**: amplia minha base de conhecimento e me conecta com diferentes temas
-- 🎨 **Cerâmica e artesanato**: me ajudam a desenvolver foco, precisão e criatividade  
-- 🎲 **Gameboards**: estimulam pensamento estratégico e modelagem de cenários  
-- 🧵 **Bordado**: exige paciência, repetição e atenção ao detalhe
-- ☄️ **Caça de asteroides**: sou voluntária no projeto Ciência Cidadã da International Astronomical Search Collaboration (IASC), que colabora com a NASA na busca e monitoramento de asteroides. Utilizo imagens captadas por um telescópio da Universidade do Havaí para identificar asteroides, contribuindo com descobertas astronômicas. Já identifiquei dois asteroides preliminares, ajudando a avançar a pesquisa sobre nosso sistema solar.
-- 🎧 **Criar playlists**: amplia meu repertório musical e me permite explorar diferentes gêneros e artistas — veja no meu [Spotify](https://open.spotify.com/user/08omttnswuf2g10zs99a4hekg)
+**AI & Data**
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning
+- NLP
+- LLMs
+- RAG
+- Data Engineering
 
----
+**Backend**
+- FastAPI
+- APIs REST
+- ETL Pipelines
 
-## 🌟 O que me motiva:
+**Frontend**
+- React
+- TypeScript
 
-- Entusiasmo em transformar dados em soluções práticas usando IA
-
-- Motivação para aplicar dados e inteligência artificial na resolução de desafios reais
-
-- Dedicação em converter dados em insights que fazem a diferença
-
----
-
-## 📚 Formação Técnica & Estudos
-
-- Graduação em ADS – IBMR
-- Pós-Graduação em IA e Data Science – FETES (em andamento) 
-- Cursos em:
-  - Ciência de Dados
-  - Visualização e Storytelling com Dados
-  - Machine Learning e NLP
-- Leitura constante de livros técnicos e científicos
-- Projetos práticos em andamento (NLP, séries temporais, recomendação, análises sociais)
+**Outros**
+- n8n (automação)
+- Git & GitHub
+- Deploy (Render / Vercel)
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 📚 Formação
 
-| Análises & Visualização | Linguagens & Web | Banco de Dados |
-|-------------------------|------------------|----------------|
-| Power BI, Tableau       | HTML, CSS, JS     | SQL            |
-| Python (Pandas, NumPy)  | Jupyter, Colab    | SQLite         |
-| Matplotlib, Seaborn     | Streamlit         |                |
-| Scikit-learn, spaCy     |                   |                |
+- 🎓 Pós-graduação em Inteligência Artificial e Data Science (em andamento)
+- 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
 
-✨ Veja todos os projetos no meu [GitHub](https://github.com/giseleoliver9).
+## 📫 Contato
 
----
-
-## 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/gisele-o-5b65a810a)  
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium)](https://medium.com/@giselemeliobr)  
-
+- LinkedIn: www.linkedin.com/in/gisele-o-5b65a810a  
+- Medium: https://medium.com/@giselemeliobr  
