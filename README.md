@@ -21,7 +21,8 @@ Tenho experiência na construção de soluções end-to-end, incluindo:
 - Desenvolvimento de aplicações full stack com React e TypeScript
 - Construção de pipelines de dados (ETL) e automação com n8n
 
-Meu foco é aplicar inteligência artificial para resolver problemas reais, com ênfase em automação, eficiência operacional e sistemas escaláveis.
+Meu foco está na aplicação de inteligência artificial para resolução de problemas reais, com ênfase em automação, eficiência operacional e construção de sistemas escaláveis.
+Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço), com experiência prática em NLP, visão computacional e redes neurais aplicadas ao desenvolvimento de soluções orientadas a dados.
 
 ---
 
