@@ -25,29 +25,35 @@ Meu foco é aplicar inteligência artificial para resolver problemas reais, com 
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stack & Conhecimentos
 
-**AI & Data**
+### 🤖 Inteligência Artificial & Machine Learning
+- Machine Learning (Supervisionado, Não Supervisionado e por Reforço)
+- Redes Neurais
+- Processamento de Linguagem Natural (NLP)
+- Visão Computacional
+- Large Language Models (LLMs)
+- RAG (Retrieval-Augmented Generation)
+
+### 📊 Dados & Engenharia
 - Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning
-- NLP
-- LLMs
-- RAG
-- Data Engineering
+- Engenharia de Dados (ETL, processamento e padronização)
+- Manipulação de grandes volumes de dados
+- APIs para processamento de dados
 
-**Backend**
+### ⚙️ Backend & Integrações
 - FastAPI
 - APIs REST
-- ETL Pipelines
+- Webhooks
+- Automação com n8n
 
-**Frontend**
+### 💻 Frontend
 - React
 - TypeScript
 
-**Outros**
-- n8n (automação)
+### ☁️ Outros
 - Git & GitHub
-- Deploy (Render / Vercel)
+- Deploy (Render, Vercel)
 
 ---
 
