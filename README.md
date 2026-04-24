@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Gisele Oliveira</h1>
+<h1 align="center"> Gisele Oliveira</h1>
 
 <p align="center">
   <strong>AI Engineer</strong> • LLMs • RAG • AI Agents • Full Stack AI Systems
