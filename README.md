@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Atuo como AI Engineer com foco no desenvolvimento de sistemas inteligentes utilizando LLMs, RAG e agentes de IA.
 
@@ -70,6 +70,14 @@ Tenho experiência na construção de soluções end-to-end, incluindo:
 Meu foco está na aplicação de inteligência artificial para resolução de problemas reais, com ênfase em automação, eficiência operacional e construção de sistemas escaláveis.
 
 Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço), com experiência prática em NLP, visão computacional e redes neurais aplicadas ao desenvolvimento de soluções orientadas a dados.
+
+---
+
+## 🎓 Formação
+
+- Pós-graduação em Inteligência Artificial e Data Science (em andamento) — FETES  
+- Graduação em Análise e Desenvolvimento de Sistemas — IBMR  
+- Formação complementar em Data Science — Alura
 
 ---
 
