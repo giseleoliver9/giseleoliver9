@@ -34,13 +34,16 @@ Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado
 ## 📫 Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gisele-o-5b65a810a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://medium.com/@giselemeliobr">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
-</a>
-<a href="https://instagram.com/giudagon">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+  <a href="mailto:giselemeliobr2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-giselemeliobr2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gisele-o-5b65a810a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@giselemeliobr">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/giudagon">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
