@@ -15,7 +15,7 @@
 
 ---
 
-Atuo como AI Engineer com foco no desenvolvimento de sistemas inteligentes utilizando LLMs, RAG e agentes de IA. Sou formada em Análise e Desenvolvimento de Sistemas pelo IBMR e faço pós-graduação em Inteligência Artificial e Data Science pela FETES.
+Atuo como AI Engineer com foco no desenvolvimento de sistemas inteligentes utilizando LLMs, RAG e agentes de IA. Sou formada em Análise e Desenvolvimento de Sistemas pelo IBMR e faço pós-graduação em Inteligência Artificial e Data Science pela FETES. Atualmente, estou me aprofundando em tópicos de Engenharia de Software, Cybersecurity e Visão Computacional. 
 
 Tenho experiência na construção de soluções end-to-end, incluindo:
 - Desenvolvimento de agentes de IA para automação de processos
@@ -28,7 +28,7 @@ Meu foco está na aplicação de inteligência artificial para resolução de pr
 
 Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço), com experiência prática em NLP, visão computacional e redes neurais aplicadas ao desenvolvimento de soluções orientadas a dados.
 
-Atualmente, me apofundando em tópicos de Engenharia de Software, Cybersecurity e Visão Computacional. 
+
 
 
 ---
