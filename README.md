@@ -28,6 +28,8 @@ Meu foco está na aplicação de inteligência artificial para resolução de pr
 
 Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço), com experiência prática em NLP, visão computacional e redes neurais aplicadas ao desenvolvimento de soluções orientadas a dados.
 
+Atualmente, me apofundando em tópicos de Engenharia de Software, Cybersecurity e Visão Computacional. 
+
 
 ---
 
