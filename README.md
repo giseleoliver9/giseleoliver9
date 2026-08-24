@@ -2,22 +2,59 @@
 
 <p align="center">
   <strong>Analista de Inteligência Artificial</strong> • LLMs • RAG • AI Agents • Full Stack
-  </p>
+</p>
 
 <p align="center">
-  Construindo sistemas inteligentes com IA aplicados a problemas reais
-</p>
-
----
-<p align="center"> <!-- AI / ML --> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-306998?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge"/> <br/> <!-- Backend --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/> <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/> <br/> <!-- Data --> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql"/> <br/> <!-- Frontend --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/> <br/> <!-- Outros --> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge"/> </p>
-
+  Desenvolvendo soluções de Inteligência Artificial aplicadas a problemas reais
 </p>
 
 ---
 
-Atuo como **Analista de Inteligência Artificial**, com foco no desenvolvimento e implementação de soluções utilizando LLMs, RAG, agentes de IA e Machine Learning.
+<p align="center">
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-306998?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge"/>
+  <br/>
 
-Sou formada em Análise e Desenvolvimento de Sistemas pelo IBMR e pós-graduada em Inteligência Artificial e Data Science pela FETES. Atualmente, amplio minha formação em Engenharia de Software, Cybersecurity e Visão Computacional.
+  <!-- Backend -->
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
+  <br/>
+
+  <!-- Data -->
+
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <br/>
+
+  <!-- Frontend -->
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <br/>
+
+  <!-- Outros -->
+
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
+Atuo como **Analista de Inteligência Artificial**, com foco no desenvolvimento e implementação de soluções utilizando **LLMs, RAG, agentes de IA e Machine Learning**.
+
+Sou formada em **Análise e Desenvolvimento de Sistemas pelo IBMR** e pós-graduada em **Inteligência Artificial e Data Science pela FETES**. Atualmente, amplio minha formação em **Engenharia de Software, Cybersecurity e Visão Computacional**.
 
 Tenho experiência na construção de soluções end-to-end, incluindo:
 
@@ -29,9 +66,9 @@ Tenho experiência na construção de soluções end-to-end, incluindo:
 * Automação de workflows com n8n
 * Desenvolvimento e avaliação de modelos de Machine Learning
 
-Meu foco está na aplicação prática de Inteligência Artificial para resolver problemas reais, combinando **IA, dados e engenharia de software** na construção de sistemas inteligentes, automatizados e escaláveis.
+Meu foco está na aplicação prática de **Inteligência Artificial para resolução de problemas reais**, combinando IA, dados e engenharia de software na construção de sistemas inteligentes, automatizados e escaláveis.
 
-Possuo base em Machine Learning, incluindo aprendizado supervisionado e não supervisionado, além de experiência prática com NLP, visão computacional e redes neurais aplicadas a soluções orientadas a dados.
+Tenho experiência em **Machine Learning**, incluindo aprendizado supervisionado e não supervisionado, além de aplicações práticas em **NLP, visão computacional e redes neurais** aplicadas a soluções orientadas a dados.
 
 ---
 
