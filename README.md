@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, sou a Gisele Oliveira</h1>
 
 <p align="center">
-  <strong>Analista de Inteligência Artificial</strong> • LLMs • RAG • AI Agents • Full Stack
+  <strong>Analista de IA </strong> • LLMs • RAG • AI Agents • Full Stack
 </p>
 
 <p align="center">
