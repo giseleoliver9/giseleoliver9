@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, sou a Gisele Oliveira</h1>
 
 <p align="center">
-  <strong>AI Engineer</strong> • LLMs • RAG • AI Agents • Full Stack AI Systems
-</p>
+  <strong>Analista de Inteligência Artificial</strong> • LLMs • RAG • AI Agents • Full Stack
+  </p>
 
 <p align="center">
   Construindo sistemas inteligentes com IA aplicados a problemas reais
@@ -15,21 +15,23 @@
 
 ---
 
-Atuo como AI Engineer com foco no desenvolvimento de sistemas inteligentes utilizando LLMs, RAG e agentes de IA. Sou formada em Análise e Desenvolvimento de Sistemas pelo IBMR e faço pós-graduação em Inteligência Artificial e Data Science pela FETES. Atualmente, estou me aprofundando em tópicos de Engenharia de Software, Cybersecurity e Visão Computacional. 
+Atuo como **Analista de Inteligência Artificial**, com foco no desenvolvimento e implementação de soluções utilizando LLMs, RAG, agentes de IA e Machine Learning.
+
+Sou formada em Análise e Desenvolvimento de Sistemas pelo IBMR e pós-graduada em Inteligência Artificial e Data Science pela FETES. Atualmente, amplio minha formação em Engenharia de Software, Cybersecurity e Visão Computacional.
 
 Tenho experiência na construção de soluções end-to-end, incluindo:
-- Desenvolvimento de agentes de IA para automação de processos
-- Implementação de pipelines com RAG (Retrieval-Augmented Generation)
-- Criação de APIs com Python (FastAPI e Flask)
-- Desenvolvimento de aplicações full stack com React e TypeScript
-- Construção de pipelines de dados (ETL) e automação com n8n
 
-Meu foco está na aplicação de inteligência artificial para resolução de problemas reais, com ênfase em automação, eficiência operacional e construção de sistemas escaláveis.
+* Desenvolvimento de agentes de IA para automação de processos
+* Implementação de pipelines com RAG (Retrieval-Augmented Generation)
+* Criação de APIs com Python, FastAPI e Flask
+* Desenvolvimento de aplicações full stack com React e TypeScript
+* Construção de pipelines de dados e processos ETL
+* Automação de workflows com n8n
+* Desenvolvimento e avaliação de modelos de Machine Learning
 
-Possuo base em Machine Learning (aprendizado supervisionado, não supervisionado e por reforço), com experiência prática em NLP, visão computacional e redes neurais aplicadas ao desenvolvimento de soluções orientadas a dados.
+Meu foco está na aplicação prática de Inteligência Artificial para resolver problemas reais, combinando **IA, dados e engenharia de software** na construção de sistemas inteligentes, automatizados e escaláveis.
 
-
-
+Possuo base em Machine Learning, incluindo aprendizado supervisionado e não supervisionado, além de experiência prática com NLP, visão computacional e redes neurais aplicadas a soluções orientadas a dados.
 
 ---
 
