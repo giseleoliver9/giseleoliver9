@@ -1,109 +1,50 @@
-<!-- GitHub Profile README | github.com/giseleoliver9 --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:152A47,100:0B8479&height=210&section=header&text=Gisele%20Oliveira&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=19&animation=fadeIn" alt="Gisele Oliveira - AI Engineer" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=35D0BB&center=true&vCenter=true&width=760&lines=Building+intelligent+systems;LLMs+%7C+RAG+%7C+AI+Agents;Machine+Learning+%7C+Software+Engineering;From+experiments+to+production" alt="Animated technical introduction" /></a>
-<p>
-  <a href="https://github.com/giseleoliver9?tab=followers"><img src="https://img.shields.io/github/followers/giseleoliver9?label=Followers&style=for-the-badge&logo=github&color=0E9384&labelColor=151B23" alt="GitHub followers" /></a>
-  <a href="https://github.com/giseleoliver9?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0E9384?style=for-the-badge&logo=github&logoColor=white&labelColor=151B23" alt="Explore projects" /></a>
-  <a href="https://www.linkedin.com/in/gisele-o-5b65a810a"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=151B23" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@giselemeliobr"><img src="https://img.shields.io/badge/Read-Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black&labelColor=151B23" alt="Medium" /></a>
-</p></div>> whoami
-Sou Gisele Oliveira, desenvolvedora Full Stack e profissional de Engenharia de Inteligência Artificial, com foco em transformar pesquisa, dados e modelos em aplicações que funcionam no mundo real.
+<div align="center">Gisele Oliveira
+AI Engineering · Machine Learning · Full Stack
+Construindo sistemas inteligentes, da experimentação à produção.
 
-Desenvolvo sistemas com LLMs, RAG, agentes de IA, Machine Learning e APIs, com atenção a arquitetura, avaliação, segurança e confiabilidade. Minha formação inclui Análise e Desenvolvimento de Sistemas (IBMR) e pós-graduação em Inteligência Artificial e Data Science (FETES).
-- Construo: agentes conversacionais, soluções com RAG, pipelines de dados e aplicações de ponta a ponta.
-- Investigo: confiabilidade de agentes, recuperação de informação, avaliação de modelos e segurança em IA.
-- Estudo: Engenharia de Software, Cloud Computing, Cybersecurity e Visão Computacional.
-- Compartilho: experimentos reproduzíveis, decisões de arquitetura e aprendizados técnicos.
-My focus: build AI systems that are useful, measurable, secure and maintainable.
+Projetos · LinkedIn · Medium · Contato
+</div>Sobre mim
+Sou desenvolvedora Full Stack e atuo com Inteligência Artificial, especialmente em LLMs, agentes, RAG e Machine Learning. Gosto de transformar pesquisa e protótipos em aplicações úteis, com atenção à arquitetura, avaliação, segurança e confiabilidade.
 
-> featured_projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/mcp_chaos_labs">MCP Chaos Lab</a></h3>
-      <p><strong>Agent Reliability · MCP · Testing</strong></p>
-      <p>Laboratório para avaliar a resiliência de agentes diante de falhas em ferramentas MCP. Experimentos comparativos de estratégias de recuperação e tolerância a falhas.</p>
-      <a href="https://github.com/giseleoliver9/mcp_chaos_labs">Explore the repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/pegasus-knowledge-ai">Pegasus Knowledge AI</a></h3>
-      <p><strong>RAG · Retrieval · LLMs</strong></p>
-      <p>Pipeline de conhecimento com processamento de documentos, embeddings, busca híbrida e geração de respostas fundamentadas em fontes.</p>
-      <a href="https://github.com/giseleoliver9/pegasus-knowledge-ai">Explore the repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/SafeRepo">SafeRepo</a></h3>
-      <p><strong>Security · Developer Tools</strong></p>
-      <p>Projeto voltado à segurança de repositórios, com foco em reduzir riscos relacionados a informações sensíveis no fluxo de desenvolvimento.</p>
-      <a href="https://github.com/giseleoliver9/SafeRepo">Explore the repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/clinical-ml-benchmark-breast-cancer">Clinical ML Benchmark</a></h3>
-      <p><strong>Machine Learning · Benchmarking · Explainability</strong></p>
-      <p>Experimentos de classificação com comparação de modelos e exploração de interpretabilidade para análise de resultados.</p>
-      <a href="https://github.com/giseleoliver9/clinical-ml-benchmark-breast-cancer">Explore the repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/Autigest">AutiGest</a></h3>
-      <p><strong>Computer Vision · Assistive Technology</strong></p>
-      <p>Protótipo de tecnologia assistiva que explora visão computacional e interação multimodal.</p>
-      <a href="https://github.com/giseleoliver9/Autigest">Explore the repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/giseleoliver9/Leia_AI">Leia.AI</a></h3>
-      <p><strong>Recommender Systems · Data Science</strong></p>
-      <p>Sistema de recomendação de livros, unindo análise de dados, modelagem e aplicação interativa.</p>
-      <a href="https://github.com/giseleoliver9/Leia_AI">Explore the repository →</a>
-    </td>
-  </tr>
-</table>> engineering_toolkit
-AI, ML & Data
+Tenho formação em Análise e Desenvolvimento de Sistemas (IBMR) e pós-graduação em Inteligência Artificial e Data Science (FETES). Atualmente aprofundo meus estudos em Engenharia de Software, Cloud e Cybersecurity.
 
+O que você encontra aqui: experimentos reproduzíveis, projetos de IA aplicada, APIs, pipelines de dados e soluções que conectam modelos a produtos reais.
+Projetos em destaque
+01 / MCP Chaos Lab
+Agent Reliability · MCP · Testing
 
+Laboratório de resiliência de agentes diante de falhas em ferramentas MCP. Avaliação de estratégias de recuperação e tolerância a falhas, com experimentos comparativos.
 
+Resultado do experimento: taxa de sucesso de 25% no baseline para 75% na configuração avançada, nas condições testadas.
+02 / Pegasus Knowledge AI
+RAG · Hybrid Retrieval · LLMs
 
+Pipeline de conhecimento que transforma documentos em respostas fundamentadas: processamento, embeddings, recuperação híbrida e geração com referências.
+03 / Clinical ML Benchmark
+Machine Learning · Evaluation · Explainability
 
+Benchmark de modelos de classificação com foco em avaliação e interpretabilidade, incluindo análise com SHAP.
+04 / SafeRepo
+Security · Developer Tools
 
+Ferramentas voltadas à identificação de riscos relacionados à exposição de segredos em repositórios e fluxos de desenvolvimento.
+<details>
+<summary><b>Mais projetos: visão computacional e recomendação</b></summary>- AutiGest: protótipo de tecnologia assistiva com visão computacional e interação multimodal.
+- Leia.AI: sistema de recomendação de livros com técnicas de ciência de dados.
+</details>Áreas de atuação
+IA & Dados
+LLMs RAG AI Agents LangGraph Machine Learning NLP Computer Vision Pandas Scikit-learn
 
+Desenvolvimento
+Python FastAPI Flask TypeScript React Next.js SQL REST APIs
 
-Software Engineering & Backend
+Infraestrutura & automação
+Docker Supabase GitHub Actions n8n Render
+O que estou explorando
+- Confiabilidade de agentes: testes, falhas de ferramentas, observabilidade e avaliação.
+- Retrieval engineering: busca híbrida, reranking, grounding e qualidade de respostas.
+- AI security: proteção de dados, segurança de aplicações e engenharia de sistemas.
+Vamos conversar?
+Trabalho com projetos de IA aplicada e gosto de trocar ideias sobre arquitetura, pesquisa e open source.
 
-
-
-
-
-
-
-Automation, Cloud & Tooling
-
-
-
-
-
-> currently_exploring
-AI ENGINEERING
-├── Agentic systems ............ Tool use, orchestration & evaluations
-├── Retrieval engineering ...... Hybrid search, reranking & grounded answers
-├── Model evaluation ........... Metrics, benchmarking & interpretability
-├── AI security ................ Prompt injection, secrets & secure deployment
-└── Production systems ........ APIs, observability, testing & reliability
-> github_activity
-<div align="center"><a href="https://github.com/giseleoliver9?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giseleoliver9&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35D0BB&icon_color=35D0BB&text_color=E6EDF3&include_all_commits=true" alt="GitHub activity stats" />
-</a>
-<a href="https://github.com/giseleoliver9?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giseleoliver9&layout=compact&hide_border=true&bg_color=0D1117&title_color=35D0BB&text_color=E6EDF3&langs_count=6" alt="Most used languages in public repositories" />
-</a><sub>Estatísticas calculadas por um serviço externo. Linguagens refletem os repositórios analisados, não meu nível de domínio.</sub>
-</div>> let's_connect
-<div align="center">Interessada em IA aplicada, engenharia de software, pesquisa experimental e open source.
-
-<a href="https://www.linkedin.com/in/gisele-o-5b65a810a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@giselemeliobr"><img src="https://img.shields.io/badge/Medium-Articles-191919?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="mailto:giselemeliobr2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-
-
-<sub>Code, curiosity and a healthy amount of debugging.</sub>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B8479,55:152A47,100:0D1117&height=100&section=footer" alt="Footer decoration" /></div>
+LinkedIn · Medium · E-mail
