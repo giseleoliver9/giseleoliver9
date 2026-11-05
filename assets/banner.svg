@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" role="img" aria-label="Gisele Oliveira | AI Engineering, Software and Data">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1020"/><stop offset=".52" stop-color="#11152b"/><stop offset="1" stop-color="#0b2330"/></linearGradient><linearGradient id="accent"><stop stop-color="#8b72ef"/><stop offset="1" stop-color="#56d8c5"/></linearGradient><pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#7b92b0" stroke-opacity=".10"/></pattern></defs>
+<rect width="1200" height="270" rx="18" fill="url(#bg)"/><rect width="1200" height="270" rx="18" fill="url(#grid)"/>
+<path d="M0 269H1200" stroke="url(#accent)" stroke-width="4"/>
+<circle cx="1030" cy="128" r="100" stroke="#56d8c5" fill="none" opacity=".15"/>
+<circle cx="1030" cy="128" r="68" stroke="#9d7cff" fill="none" opacity=".25"/>
+<circle cx="1030" cy="128" r="33" stroke="#56d8c5" fill="none" opacity=".45"/>
+<path d="M963 134l-22-20 22-20M1097 94l22 20-22 20" fill="none" stroke="#56d8c5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+<text x="65" y="59" font-size="17" fill="#56d8c5" font-family="DejaVu Sans Mono,monospace" letter-spacing="2">ENGINEERING INTELLIGENT SYSTEMS</text>
+<text x="61" y="135" font-size="58" font-weight="bold" fill="#f5f7ff" font-family="DejaVu Sans,Arial,sans-serif">Gisele Oliveira</text>
+<rect x="65" y="158" width="390" height="3" rx="2" fill="url(#accent)"/>
+<text x="65" y="205" font-size="25" fill="#d4dafa" font-family="DejaVu Sans,Arial,sans-serif">AI Engineer  •  Tech Lead  •  Full Stack</text>
+<text x="65" y="239" font-size="15" fill="#8c9ab6" font-family="DejaVu Sans Mono,monospace">AI AGENTS  /  VOICE AI  /  RAG  /  SOFTWARE</text>
+</svg>
