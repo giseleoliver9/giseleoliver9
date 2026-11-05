@@ -44,12 +44,6 @@ Participação no desenvolvimento de uma plataforma de automação de chamadas c
 
 > Projeto corporativo: código-fonte e detalhes confidenciais não são públicos.
 
-### 💬 Agente de IA para WhatsApp · Integração com CRM
-
-Agente conversacional integrado ao CRM e às informações de produtos, com consultas a serviços, manutenção de prompts, testes de comportamento e medidas para reduzir respostas sem fundamento.
-
-> Projeto corporativo: implementação privada.
-
 ### 🧪 [MCP Chaos Lab](https://github.com/giseleoliver9/mcp_chaos_labs) · Agent Reliability
 
 Laboratório de avaliação de agentes que utilizam ferramentas MCP, incluindo injeção de falhas, recuperação e métricas reproduzíveis.
