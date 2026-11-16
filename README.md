@@ -24,7 +24,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Atuo com **Engenharia de Inteligência Artificial, Machine Learning, Ciência de Dados e Desenvolvimento Full Stack**, construindo aplicações inteligentes, sistemas orientados a dados e soluções integradas a ambientes corporativos.
+Atuo com **Machine Learning, Ciência de Dados e Desenvolvimento Full Stack**, construindo aplicações inteligentes, sistemas orientados a dados e soluções integradas a ambientes corporativos.
 
 Minha experiência envolve o desenvolvimento de sistemas com **LLMs, arquiteturas RAG, agentes conversacionais e de voz**, além de aplicações de Machine Learning, NLP e visão computacional.
 
