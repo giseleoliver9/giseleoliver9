@@ -3,8 +3,6 @@
 
 <img src="./assets/cosmos.png" width="100%" alt="Gisele Oliveira | AI Engineering, Machine Learning, Data Science & Software Engineering" />
 
-<br>
-
 <br><br>
 
 <a href="https://www.linkedin.com/in/gisele-o-5b65a810a/">
