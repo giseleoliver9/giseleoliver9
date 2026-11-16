@@ -42,38 +42,12 @@ Meu foco é conectar **Inteligência Artificial, Ciência de Dados e Engenharia 
 
 </div>
 
----
-
-## 💼 Experiência profissional
-
-### Grupo DDM | Liderança Técnica de IA
-**Novembro de 2025 – Atualmente**
-
-- Liderança técnica de equipe de IA e desenvolvimento.
-- Planejamento, priorização e acompanhamento de projetos.
-- Desenvolvimento e evolução de agentes conversacionais e de voz.
-- Integração de LLMs com CRM, WhatsApp, telefonia e APIs corporativas.
-- Desenvolvimento de serviços, automações e aplicações Full Stack.
-- Testes de integração, logs, auditoria e observabilidade.
-- Investigação de falhas, análise de latência e otimização de desempenho.
-- Aplicação de boas práticas de segurança e proteção de dados.
-
-### OZ Filmes | Desenvolvimento Web
-**Janeiro de 2025 – Atualmente**
-
-- Desenvolvimento de interfaces e aplicações web.
-- Integração de sistemas e APIs.
-- Levantamento de requisitos.
-- Manutenção evolutiva e desenvolvimento de funcionalidades.
-
----
 
 ## 🚀 Projetos e experiências relevantes
 
-### 📞 Plataforma de Voz com Inteligência Artificial
-**Solução corporativa em produção**
+### 📞 Agente de Voz com IA
 
-Participação no desenvolvimento de uma plataforma de automação de chamadas com agentes de IA, integrando processamento de áudio, modelos de linguagem, telefonia e sistemas corporativos.
+Participei no desenvolvimento de uma plataforma de automação de chamadas com agentes de IA, integrando processamento de áudio, modelos de linguagem, telefonia e sistemas corporativos.
 
 **Arquitetura e engenharia:**
 
@@ -88,12 +62,10 @@ Participação no desenvolvimento de uma plataforma de automação de chamadas c
 - Testes automatizados, integração contínua e observabilidade.
 - Segurança aplicada ao tratamento de dados sensíveis.
 
-> Projeto corporativo. Código-fonte e informações confidenciais não são públicos.
 
-### 💬 Agente de IA para WhatsApp
-**Conversational AI | CRM Integration**
+### 💬 Conversational AI
 
-Desenvolvimento e evolução de agentes conversacionais integrados a sistemas de atendimento e CRM.
+Desenvolvimento e evolução de agentes conversacionais integrados a sistemas de atendimento.
 
 - Integração de LLMs com APIs e sistemas corporativos.
 - Consulta a informações de produtos e serviços.
@@ -251,11 +223,13 @@ Sistema de recuperação e geração de conhecimento a partir de documentos.
 
 ## 🌌 Além do código
 
-Sou **escritora**, com formação complementar em Escrita Criativa pela PUCRS, e entusiasta de astronomia, literatura, jogos de tabuleiro, hackathons e projetos científicos.
+Sou **escritora**, participei de algumas antologias e publiquei em revistas virtuais. Recentemente, fiquei entre os 26 selecionados no Prêmio Rio de Contos. 
 
-Participo da liderança de uma equipe em um projeto de **caça a asteroides relacionado ao MCTI e à NASA**, conectando meu interesse por ciência, pesquisa e tecnologia.
+Tenho formação complementar em Escrita Criativa pela PUCRS, e sou entusiasta de astronomia, apaixonada pela leitura, boardgames e ficção científica. 
 
-Também tenho interesse em projetos multidisciplinares que envolvam desenvolvimento tecnológico, criatividade e impacto social.
+Participo da liderança de uma equipe em um projeto de **Caça a Asteroides relacionado ao MCTI e à NASA**, conectando meu interesse por ciência, pesquisa e tecnologia.
+
+Também tenho interesse em projetos multidisciplinares que envolvam desenvolvimento tecnológico, criatividade e impacto social. Por isso, sempre estou participando de eventos, hackathons e projetos. 
 
 ---
 
