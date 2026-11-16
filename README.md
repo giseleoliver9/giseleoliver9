@@ -215,10 +215,6 @@ Sistema de recuperação e geração de conhecimento a partir de documentos.
 - Mulheres no Futuro: Dados & IA — USP
 - Programa CiberEducação Cisco Brasil — Cisco
 
-### Eventos acadêmicos
-
-- **6º Congresso de Inteligência Artificial** — PUC-SP, 2025.
-
 ---
 
 ## 🌌 Além do código
