@@ -24,15 +24,15 @@
 
 ## 👩‍💻 Sobre mim
 
-Atuo com **Engenharia de IA**, desenvolvendo **agentes de voz e soluções com RAG**, e lidero tecnicamente uma equipe de IA e desenvolvimento.
+Atuo com **Machine Learning, Ciência de Dados e Desenvolvimento Full Stack**, construindo aplicações inteligentes, sistemas orientados a dados e soluções integradas a ambientes corporativos.
 
-Também desenvolvo aplicações com LLMs, agentes conversacionais, Machine Learning, NLP e visão computacional.
+Minha experiência envolve o desenvolvimento de sistemas com **LLMs, arquiteturas RAG, agentes conversacionais e de voz**, além de aplicações de Machine Learning, NLP e visão computacional.
 
 Em Ciência de Dados, trabalho com análise exploratória de dados (EDA), preparação de datasets, engenharia de atributos, treinamento, avaliação e otimização de modelos.
 
 Na Engenharia de Software, desenvolvo aplicações backend e frontend utilizando **Python, FastAPI, TypeScript, React, Next.js, Node.js e NestJS**, integrando APIs RESTful, webhooks, bancos de dados e pipelines de dados.
 
-Na liderança técnica, participo de decisões de arquitetura, organização de projetos, revisão de implementações, testes e segurança.
+Atualmente, exerço **liderança técnica de uma equipe de IA e desenvolvimento**, participando de decisões de arquitetura, organização de projetos, revisão de implementações, testes e segurança.
 
 Meu foco é conectar **Inteligência Artificial, Ciência de Dados e Engenharia de Software** para desenvolver produtos tecnológicos confiáveis, escaláveis e aplicáveis a problemas reais.
 
@@ -73,23 +73,24 @@ Desenvolvimento e evolução de agentes conversacionais integrados a sistemas de
 - Avaliação de respostas e testes de comportamento.
 - Estratégias para mitigar respostas não fundamentadas.
 
-### 🧪 [Tool Failure Lab](https://github.com/giseleoliver9/tool-failure-lab)
-**Agent Reliability | Fault Injection**
+### 🧪 [MCP Chaos Lab](https://github.com/giseleoliver9/mcp_chaos_labs)
+**AI Agent Reliability | MCP | Fault Injection**
 
-Simulador em Python para comparar como duas estratégias lidam com ferramentas indisponíveis, lentas ou que devolvem dados em um formato inesperado.
+Laboratório experimental para avaliar a confiabilidade de agentes de IA diante de falhas em ferramentas MCP.
 
-- Simulação de falhas com ferramentas fictícias.
-- Comparação entre reintento, recuperação por alternativa e interrupção.
-- Benchmark reproduzível sem modelo ao vivo.
+- Simulação de falhas e indisponibilidade de ferramentas.
+- Estratégias de recuperação e tolerância a falhas.
+- Testes automatizados e métricas reproduzíveis.
+- Análise de confiabilidade e segurança.
 
-**Benchmark controlado, com 100 casos simulados por estratégia:**
+**Benchmark experimental:**
 
-| Métrica | Sem recuperação | Com recuperação |
+| Métrica | Baseline | Advanced |
 |:---|:---:|:---:|
-| Respostas estruturalmente válidas | 25% | 75% |
-| Casos simulados | 100 | 100 |
+| Taxa de sucesso | 25% | 75% |
+| Execuções | 100 | 100 |
 
-O resultado mede a validade do formato das respostas nesse cenário, não sua exatidão nem o desempenho em produção.
+**Resultado:** melhoria de 50 pontos percentuais na taxa de sucesso nas condições avaliadas.
 
 ### 📚 [Pegasus Knowledge AI](https://github.com/giseleoliver9/pegasus-knowledge-ai)
 **RAG | NLP | Information Retrieval**
