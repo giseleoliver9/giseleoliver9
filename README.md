@@ -73,24 +73,23 @@ Desenvolvimento e evolução de agentes conversacionais integrados a sistemas de
 - Avaliação de respostas e testes de comportamento.
 - Estratégias para mitigar respostas não fundamentadas.
 
-### 🧪 [MCP Chaos Lab](https://github.com/giseleoliver9/mcp_chaos_labs)
-**AI Agent Reliability | MCP | Fault Injection**
+### 🧪 [Tool Failure Lab](https://github.com/giseleoliver9/tool-failure-lab)
+**Agent Reliability | Fault Injection**
 
-Laboratório experimental para avaliar a confiabilidade de agentes de IA diante de falhas em ferramentas MCP.
+Simulador em Python para comparar como duas estratégias lidam com ferramentas indisponíveis, lentas ou que devolvem dados em um formato inesperado.
 
-- Simulação de falhas e indisponibilidade de ferramentas.
-- Estratégias de recuperação e tolerância a falhas.
-- Testes automatizados e métricas reproduzíveis.
-- Análise de confiabilidade e segurança.
+- Simulação de falhas com ferramentas fictícias.
+- Comparação entre reintento, recuperação por alternativa e interrupção.
+- Benchmark reproduzível sem modelo ao vivo.
 
-**Benchmark experimental:**
+**Benchmark controlado, com 100 casos simulados por estratégia:**
 
-| Métrica | Baseline | Advanced |
+| Métrica | Sem recuperação | Com recuperação |
 |:---|:---:|:---:|
-| Taxa de sucesso | 25% | 75% |
-| Execuções | 100 | 100 |
+| Respostas estruturalmente válidas | 25% | 75% |
+| Casos simulados | 100 | 100 |
 
-**Resultado:** melhoria de 50 pontos percentuais na taxa de sucesso nas condições avaliadas.
+O resultado mede a validade do formato das respostas nesse cenário, não sua exatidão nem o desempenho em produção.
 
 ### 📚 [Pegasus Knowledge AI](https://github.com/giseleoliver9/pegasus-knowledge-ai)
 **RAG | NLP | Information Retrieval**
@@ -183,6 +182,7 @@ Sistema de recuperação e geração de conhecimento a partir de documentos.
 
 - **Análise e Desenvolvimento de Sistemas** — IBMR, concluído em 2025.
 - **Pós-graduação em Inteligência Artificial e Data Science** — FETES, em andamento, conclusão prevista para 2027.
+- **MBA em Engenharia de Software** — USP/Esalq, em andamento.
 
 ### Certificações e formações concluídas
 
